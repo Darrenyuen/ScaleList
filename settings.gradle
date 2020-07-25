@@ -1,0 +1,2 @@
+rootProject.name='ScaleList'
+include ':app'
